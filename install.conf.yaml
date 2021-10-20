@@ -1,0 +1,22 @@
+
+- clean: ['~']
+
+- link:
+    ~/.bash_profile: bash_profile
+    ~/.bashrc: bashrc
+    ~/.bash_logout: bash_logout
+    ~/.vimrc: vimrc
+    ~/.zshrc: zshrc
+    ~/.Xresources: Xresources
+    ~/.Xdefaults: Xdefaults
+    ~/.config/i3:
+        path: config/i3/
+        create: true
+    ~/.config/openbox:
+        path: config/openbox/
+        create: true
+    ~/.config/obmenu-generator:
+        path: config/obmenu-generator/
+        create: true
+
+
