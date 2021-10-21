@@ -272,8 +272,15 @@ mode "$mode_gaps" {
 bindsym $mod+Shift+g mode "$mode_gaps"
 
 ##-- Workspace Rules ------------------------
+assign [class="firefox"] 1
+assign [class="Code"] 2
+assign [class="Thunar"] 3
 assign [class="Lxappearance|Nitrogen"] 6
 assign [class="Pavucontrol|Xfce4-power-manager-settings"] 6
+assign [class="discord|Rambox"] 8
+for_window [class="Spotify"] move container to workspace 9
+assign [class="libreoffice*"] 10
+
 
 ##-- Window Rules ------------------------
 for_window [window_role="pop-up"] floating enable
