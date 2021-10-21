@@ -2,16 +2,19 @@
 ## General
 - [ ] Add a README
 - [ ] Make a list of all programs installed
-- [ ] Wallpaper folder
+- [X] Wallpaper folder
+- [ ] Create a conky shortcut cheetsheat
 
 ## Polybar
 - [ ] Change local = es
 - [ ] Change date module
 - [ ] Debug
+- [ ] Pacman and AUR update module
 
 ## i3wm
-- [ ] Define default window where a program will open
-- [ ] Research the wallpaper manager
+- [X] Define default window where a program will open
+- [X] Research the wallpaper manager
+- [X] Shortcuts
 
 ## Shells
 - [ ] Script and alias with a tar-helper script. Add it to ~/scripts
