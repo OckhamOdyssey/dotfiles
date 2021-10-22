@@ -27,3 +27,24 @@
     ~/.config/polybar:
         path: config/polybar
         create: true
+- pacaur:
+    - balena-etcher
+    - archcraft-i3wm
+    - discord
+    - downgrade
+    - firefox
+    - lxappearance
+    - nitrogen
+    - polybar
+    - polybar-spotify-module
+    - python-pip
+    - python-pywal
+    - python-wheel
+    - rambox-bin
+    - spotify
+    - teams
+    - thunderbird
+    - thunderbird-i18n-es-es
+    - virtualbox
+    - visual-studio-code-bin
+    
