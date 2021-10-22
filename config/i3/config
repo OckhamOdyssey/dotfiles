@@ -279,6 +279,7 @@ assign [class="Thunar"] 3
 assign [class="Lxappearance|Nitrogen"] 6
 assign [class="Pavucontrol|Xfce4-power-manager-settings"] 6
 assign [class="discord|Rambox"] 8
+assign [class="Microsoft Teams"] 8
 for_window [class="Spotify"] move container to workspace 9
 assign [class="libreoffice*"] 10
 
