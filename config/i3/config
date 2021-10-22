@@ -57,6 +57,7 @@ bindsym $mod+Shift+Return 		exec --no-startup-id ~/.config/i3/bin/i3term.sh -f
 bindsym $mod+t	        		exec --no-startup-id thunar
 bindsym $mod+Shift+e 			exec --no-startup-id geany
 bindsym $mod+b		        	exec --no-startup-id firefox
+bindsym $mod+Shift+b                    exec --no-startup-id "firefox --private-window"
 bindsym $alt+Control+v 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e vim"
 bindsym $alt+Control+n 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e nvim"
 bindsym $alt+Control+r 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e ranger"
