@@ -68,7 +68,8 @@ bindsym $alt+Control+b 			exec --no-startup-id "alacritty --config-file ~/.confi
 bindsym $alt+F1 				exec --no-startup-id ~/.config/i3/rofi/bin/launcher
 bindsym $mod+n 					exec --no-startup-id ~/.config/i3/rofi/bin/network_menu
 bindsym $mod+x 					exec --no-startup-id ~/.config/i3/rofi/bin/powermenu
-bindsym $mod+m 					exec --no-startup-id ~/.config/i3/rofi/bin/mpd
+# bindsym $mod+m 					exec --no-startup-id ~/.config/i3/rofi/bin/mpd
+bindsym $mod+m 					exec --no-startup-id thunderbird
 bindsym $mod+i 					exec --no-startup-id ~/.config/i3/rofi/bin/network
 bindsym $mod+s 					exec --no-startup-id ~/.config/i3/rofi/bin/screenshot
 bindsym $mod+r 					exec --no-startup-id ~/.config/i3/rofi/bin/asroot
@@ -276,6 +277,7 @@ bindsym $mod+Shift+g mode "$mode_gaps"
 assign [class="firefox"] 1
 assign [class="Code"] 2
 assign [class="Thunar"] 3
+assign [class="Thunderbird"] 5
 assign [class="Lxappearance|Nitrogen"] 6
 assign [class="Pavucontrol|Xfce4-power-manager-settings"] 6
 assign [class="discord|Rambox"] 8
