@@ -47,4 +47,5 @@
     - thunderbird-i18n-es-es
     - virtualbox
     - visual-studio-code-bin
-    
+    - virtualbox-host-modules-arch
+    - virtualbox-guest-iso 
