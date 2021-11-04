@@ -1,7 +1,7 @@
 # TODO
 ## General
 - [ ] Add a README
-- [ ] Make a list of all programs installed
+- [X] Make a list of all programs installed
 - [X] Wallpaper folder
 - [ ] Create a conky shortcut cheetsheat
 
@@ -10,12 +10,13 @@
 - [ ] Change date module
 - [ ] Debug
 - [ ] Pacman and AUR update module
+- [ ] Pacman and AUR updates counter module
 
 ## i3wm
 - [X] Define default window where a program will open
 - [X] Research the wallpaper manager
 - [X] Shortcuts
-- [ ] Make mainm command to default copy the screenshot to the clipboard
+- [ ] Make maim command to default copy the screenshot to the clipboard
 
 ## Shells
 - [ ] Script and alias with a tar-helper script. Add it to ~/scripts
