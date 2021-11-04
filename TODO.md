@@ -11,6 +11,7 @@
 - [ ] Debug
 - [ ] Pacman and AUR update module
 - [ ] Pacman and AUR updates counter module
+- [X] Caps module
 
 ## i3wm
 - [X] Define default window where a program will open

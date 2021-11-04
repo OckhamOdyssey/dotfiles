@@ -884,6 +884,15 @@ click-right = playerctl --player=spotify next
 click-middle = playerctl --player=spotify previous 
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/caps]
+type = internal/xkeyboard
+format = <label-indicator>
+label-indicator-on-foreground = ${color.RED}
+label-indicator-on = %icon%
+indicator-icon-0 = caps lock;-CL;בּ CAPS
+
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ;;	    __________  ______
 ;;	   / ____/ __ \/ ____/
 ;;	  / __/ / / / / /_    
