@@ -49,3 +49,4 @@
     - visual-studio-code-bin
     - virtualbox-host-modules-arch
     - virtualbox-guest-iso 
+    - font-manager
