@@ -6,7 +6,7 @@
 ;; Global WM Settings
 
 [global/wm]
-locale = es_ES.UTF-8
+
 ; Adjust the _NET_WM_STRUT_PARTIAL top value
 ; Used for top aligned bars
 margin-bottom = 0
@@ -163,7 +163,7 @@ wm-name =
 
 ; Locale used to localize various module data (e.g. date)
 ; Expects a valid libc locale, for example: sv_SE.UTF-8
-locale = 
+locale = es_ES.UTF-8
 
 ; Position of the system tray window
 ; If empty or undefined, tray support will be disabled

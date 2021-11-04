@@ -6,8 +6,8 @@
 - [ ] Create a conky shortcut cheetsheat
 
 ## Polybar
-- [ ] Change local = es
-- [ ] Change date module
+- [X] Change local = es
+- [X] Change date module
 - [X] Debug
 - [X] Pacman and AUR update module
 - [X] Pacman and AUR updates counter module
