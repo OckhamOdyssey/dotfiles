@@ -6,6 +6,7 @@
 ;; Global WM Settings
 
 [global/wm]
+locale = es_ES.UTF-8
 ; Adjust the _NET_WM_STRUT_PARTIAL top value
 ; Used for top aligned bars
 margin-bottom = 0
