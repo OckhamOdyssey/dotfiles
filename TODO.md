@@ -8,9 +8,9 @@
 ## Polybar
 - [ ] Change local = es
 - [ ] Change date module
-- [ ] Debug
-- [ ] Pacman and AUR update module
-- [ ] Pacman and AUR updates counter module
+- [X] Debug
+- [X] Pacman and AUR update module
+- [X] Pacman and AUR updates counter module
 - [X] Caps module
 
 ## i3wm

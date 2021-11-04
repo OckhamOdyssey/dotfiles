@@ -135,9 +135,9 @@ font-3 = "Iosevka Nerd Font:bold:size=12;4"
 ;   modules-right = ipc clock
 
 # Default
-modules-left =LD i3 RD sep LD spotify RD sep 
+modules-left =LD i3 RD sep updates sep LD spotify RD sep 
 modules-center = 
-modules-right = caps sep sep volume dot backlight dot battery dot network dot LD date RD dot sysmenu
+modules-right = caps sep volume dot backlight dot battery dot network dot LD date RD sep sysmenu
 
 # Alternate
 ;modules-left = openbox 2LD cpu 3LD memory 4LD filesystem 5LD
