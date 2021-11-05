@@ -39,3 +39,6 @@ ksuperkey -e 'Super_R=Alt_L|F1' &
 
 # Start mpd
 exec mpd &
+
+# Start flameshot
+exec flameshot &

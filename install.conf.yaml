@@ -27,6 +27,9 @@
     ~/.config/polybar:
         path: config/polybar
         create: true
+    ~/.config/flameshot/flameshot.ini:
+        path: flameshot.ini
+        create: true
 - pacaur:
     - balena-etcher
     - archcraft-i3wm
@@ -50,3 +53,4 @@
     - virtualbox-host-modules-arch
     - virtualbox-guest-iso 
     - font-manager
+    - flameshot

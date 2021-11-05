@@ -19,7 +19,7 @@
 - [X] Shortcuts
 - [ ] ~~Make maim command to default copy the screenshot to the clipboard~~
 - [ ] Change default screenshot to flameshot
-- [ ] Start flameshot at startup
+- [X] Start flameshot at startup
 
 ## Shells
 - [ ] Script and alias with a tar-helper script. Add it to ~/scripts
