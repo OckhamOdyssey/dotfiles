@@ -17,7 +17,9 @@
 - [X] Define default window where a program will open
 - [X] Research the wallpaper manager
 - [X] Shortcuts
-- [ ] Make maim command to default copy the screenshot to the clipboard
+- [ ] ~~Make maim command to default copy the screenshot to the clipboard~~
+- [ ] Change default screenshot to flameshot
+- [ ] Start flameshot at startup
 
 ## Shells
 - [ ] Script and alias with a tar-helper script. Add it to ~/scripts
