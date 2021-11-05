@@ -897,7 +897,7 @@ indicator-icon-0 = caps lock;-CL;בּ CAPS
 [module/updates]
 type = custom/script
 exec = "~/.config/i3/polybar/updates.sh"
-; interval = 600
+interval = 600
 format = <label>
 format-prefix = "ﮮ "
 
