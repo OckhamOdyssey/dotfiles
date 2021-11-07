@@ -901,6 +901,15 @@ interval = 600
 format = <label>
 format-prefix = "ﮮ "
 
+;;
+
+[module/pomodoro]
+type = custom/script
+click-left = gnome-pomodoro --pause-resume
+click-middle = gnome-pomodoro 
+click-right = gnome-pomodoro --start-stop
+exec = i3-gnome-pomodoro status --always
+interval = 1
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ;;	    __________  ______

@@ -12,6 +12,7 @@
 - [X] Pacman and AUR update module
 - [X] Pacman and AUR updates counter module
 - [X] Caps module
+- [ ] Add Caffeine and pomodoro module
 
 ## i3wm
 - [X] Define default window where a program will open
