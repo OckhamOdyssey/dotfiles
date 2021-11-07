@@ -58,6 +58,7 @@ bindsym $mod+t	        		exec --no-startup-id thunar
 bindsym $mod+Shift+e 			exec --no-startup-id geany
 bindsym $mod+b		        	exec --no-startup-id firefox
 bindsym $mod+Shift+b                    exec --no-startup-id "firefox --private-window"
+bindsym $mod+c                          exec --no-startup-id code
 bindsym $alt+Control+v 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e vim"
 bindsym $alt+Control+n 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e nvim"
 bindsym $alt+Control+r 			exec --no-startup-id "alacritty --config-file ~/.config/i3/alacritty/alacritty.yml -e ranger"
@@ -103,7 +104,7 @@ floating_modifier $mod
 
 # kill focused window
 bindsym $mod+q kill
-bindsym $mod+c kill
+# bindsym $mod+c kill
 
 # change focus
 bindsym $mod+j focus left
