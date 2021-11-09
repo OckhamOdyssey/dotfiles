@@ -30,7 +30,8 @@
     ~/.config/flameshot/flameshot.ini:
         path: flameshot.ini
         create: true
-- pacaur:
+
+- yay:
     - balena-etcher
     - archcraft-i3wm
     - discord
