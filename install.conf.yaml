@@ -52,7 +52,7 @@
     - virtualbox
     - visual-studio-code-bin
     - virtualbox-host-modules-arch
-    - virtualbox-guest-iso 
+    - virtualbox-guest-iso
     - font-manager
     - flameshot
     - caffeine
