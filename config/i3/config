@@ -71,6 +71,7 @@ bindsym $mod+n 					exec --no-startup-id ~/.config/i3/rofi/bin/network_menu
 bindsym $mod+x 					exec --no-startup-id ~/.config/i3/rofi/bin/powermenu
 # bindsym $mod+m 					exec --no-startup-id ~/.config/i3/rofi/bin/mpd
 bindsym $mod+m 					exec --no-startup-id thunderbird
+bindsym $mod+z                                  exec --no-startup-id rambox
 bindsym $mod+i 					exec --no-startup-id ~/.config/i3/rofi/bin/network
 bindsym $mod+s 					exec --no-startup-id ~/.config/i3/rofi/bin/screenshot
 bindsym $mod+r 					exec --no-startup-id ~/.config/i3/rofi/bin/asroot
