@@ -30,7 +30,9 @@
     ~/.config/flameshot/flameshot.ini:
         path: flameshot.ini
         create: true
-
+    ~/.config/dunst/dunstrc:
+        path: dunstrc
+        create: true
 - yay:
     - balena-etcher
     - archcraft-i3wm
