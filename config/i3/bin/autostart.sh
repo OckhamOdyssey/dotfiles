@@ -42,3 +42,6 @@ exec mpd &
 
 # Start flameshot
 exec flameshot &
+
+# Start slimbookbattery
+exec slimbookbattery &
