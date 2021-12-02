@@ -897,7 +897,7 @@ indicator-icon-0 = caps lock;-CL;בּ CAPS
 [module/updates]
 type = custom/script
 exec = "~/.config/i3/polybar/updates.sh"
-interval = 600
+interval = 200
 format = <label>
 format-prefix = "ﮮ "
 
@@ -910,6 +910,13 @@ click-middle = gnome-pomodoro
 click-right = gnome-pomodoro --start-stop
 exec = i3-gnome-pomodoro status --always
 interval = 1
+
+[module/caffeine]
+type = custom/script
+interval = 1
+exec = ~/.config/i3/polybar/caffeine.sh
+; Click Events for Caffeine
+click-left = ~/.config/i3/polybar/caffeine.sh -t
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ;;	    __________  ______
